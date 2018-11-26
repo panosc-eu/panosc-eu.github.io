@@ -1,4 +1,4 @@
-<img src="https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/images/logos/panosc.png" width="500" height="180"/>
+![PaNOSC logo](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/images/logos/panosc_logo_512x175.png "The PaNOSC logo")
 
 The Photon and Neutron Open Science Cloud (PaNOSC) is a Europen project (finaced by the [INFRAEOSC-04](https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-04-2018.html) call) for making [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) data a reality in 6 [ESFRI](http://www.esfri.eu/) Research Infrastructures (RIs), developing and providing services for scientific data and connecting these to the European Open Science Cloud (EOSC).
 
@@ -6,7 +6,7 @@ The Photon and Neutron Open Science Cloud (PaNOSC) is a Europen project (finaced
 
 The kickoff meeting for PanOSC will take place on the 15+16 January at the ESRF on the EPN Campus. Details of the agenda and meeting can be found here:
 
-https://indico.esrf.fr/indico/event/19/
+[https://indico.esrf.fr/indico/event/19/](https://indico.esrf.fr/indico/event/19/)
 
 Anyone who is interested is welcome to attend! Registration opens on 3 December 2018.
 
