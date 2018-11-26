@@ -1,4 +1,4 @@
-![PaNOSC logo](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/images/logos/panosc.png "The PaNOSC logo")
+![PaNOSC logo](https://github.com/panosc-eu/panosc/blob/master/Work%20Packages/WP9%20Outreach%20and%20communication/images/logos/panosc.png "The PaNOSC logo" width="500")
 
 The Photon and Neutron Open Science Cloud (PaNOSC) is a Europen project (finaced by the [INFRAEOSC-04](https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-04-2018.html) call) for making [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) data a reality in 6 [ESFRI](http://www.esfri.eu/) Research Infrastructures (RIs), developing and providing services for scientific data and connecting these to the European Open Science Cloud (EOSC).
 
