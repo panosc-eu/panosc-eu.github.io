@@ -41,7 +41,7 @@ The PaNOSC proposal was submitted on March 20. 2018 in response to the EU Horizo
 For general inquiries about PaNOSC please submit an [issue to the panosc support project](https://github.com/panosc-eu/support/issues) or send an email to <panosc@esrf.fr> (TBD).
 
 ## PaNOSC on github
-* Wiki: [https://www.github.com/panosc-eu/panosc/panosc/wiki](https://www.github.com/panosc-eu/wiki)
+* Wiki: [https://www.github.com/panosc-eu/panosc/wiki](https://www.github.com/panosc-eu/panosc/wiki)
 * Organization page: [https://www.github.com/panosc-eu](https://www.github.com/panosc-eu)
 * Project Management: [https://www.github.com/panosc-eu/panosc](https://www.github.com/panosc-eu/panosc)
 * Help & Support [https://www.github.com/panosc-eu/support](https://www.github.com/panosc-eu/support)
