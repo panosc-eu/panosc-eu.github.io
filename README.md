@@ -35,12 +35,13 @@ The project will work closely with the national photon and neutron sources to de
 * Share the outcomes with the national RIs who are observers in the proposal and the community at large to promote the adoption of FAIR data principles, data stewardship and the EOSC.
 
 ## The PaNOSC proposal
-The PaNOSC proposal was submitted on March 20. 2018 in response to the EU Horizon2020 Call for Proposals [INFRAEOSC-04-2018](https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-04-2018.html). The proposal is public and can be found here (TBC).
+The PaNOSC proposal was submitted on March 20. 2018 in response to the EU Horizon2020 Call for Proposals [INFRAEOSC-04-2018](https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-04-2018.html). 
 
 ## Contacts
-For general inquiries about PaNOSC please submit an [issue to the panosc support project](https://github.com/panosc-eu/support/issues) or send an email to <info@panosc.eu> (TBD).
+For general inquiries about PaNOSC please submit an [issue to the panosc support project](https://github.com/panosc-eu/support/issues) or send an email to <panosc@esrf.fr> (TBD).
 
 ## PaNOSC on github
+* Wiki: [https://www.github.com/panosc-eu/panosc/wiki](https://www.github.com/panosc-eu/wiki)
 * Organization page: [https://www.github.com/panosc-eu](https://www.github.com/panosc-eu)
-* Management: [https://www.github.com/panosc-eu/panosc](https://www.github.com/panosc-eu/panosc)
+* Project Management: [https://www.github.com/panosc-eu/panosc](https://www.github.com/panosc-eu/panosc)
 * Help & Support [https://www.github.com/panosc-eu/support](https://www.github.com/panosc-eu/support)
