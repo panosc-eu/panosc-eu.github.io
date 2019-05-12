@@ -1,4 +1,4 @@
-<a href="https://panosc.eu/">Redirect</a>
+<meta http-equiv = "refresh" content = "2; url = https://panosc.eu" />
 
 ![PaNOSC logo](/panosc_logo_512x512.png "The PaNOSC logo")
 
